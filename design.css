@@ -1,0 +1,28 @@
+.name{
+    padding: 8px;
+    background-color:rgb(120, 120, 120);
+    border-radius: 15px;
+    font-size: 25px;
+}
+.teveob{
+    height: 250px;
+}
+#main .nex{
+    margin-left: 40px;
+}
+.logo{
+    font-size: 30px;
+    margin-top: 13%;
+    height: 40px;
+    padding: 8px;
+    background-color:rgb(120, 120, 120);
+    border-radius: 15px;
+}
+.imgLog{
+    height: 38px;
+    border-radius: 8px;
+}
+.apple{
+    margin-left: 10px;
+    
+}
